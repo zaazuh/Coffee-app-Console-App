@@ -1,0 +1,28 @@
+D:\random\Documents\zahraa redAcademy\coffee_project\coffee_project\bin\Debug\net8.0\coffee_project.exe
+D:\random\Documents\zahraa redAcademy\coffee_project\coffee_project\bin\Debug\net8.0\coffee_project.deps.json
+D:\random\Documents\zahraa redAcademy\coffee_project\coffee_project\bin\Debug\net8.0\coffee_project.runtimeconfig.json
+D:\random\Documents\zahraa redAcademy\coffee_project\coffee_project\bin\Debug\net8.0\coffee_project.dll
+D:\random\Documents\zahraa redAcademy\coffee_project\coffee_project\bin\Debug\net8.0\coffee_project.pdb
+D:\random\Documents\zahraa redAcademy\coffee_project\coffee_project\obj\Debug\net8.0\coffee_project.GeneratedMSBuildEditorConfig.editorconfig
+D:\random\Documents\zahraa redAcademy\coffee_project\coffee_project\obj\Debug\net8.0\coffee_project.AssemblyInfoInputs.cache
+D:\random\Documents\zahraa redAcademy\coffee_project\coffee_project\obj\Debug\net8.0\coffee_project.AssemblyInfo.cs
+D:\random\Documents\zahraa redAcademy\coffee_project\coffee_project\obj\Debug\net8.0\coffee_project.csproj.CoreCompileInputs.cache
+D:\random\Documents\zahraa redAcademy\coffee_project\coffee_project\obj\Debug\net8.0\coffee_project.dll
+D:\random\Documents\zahraa redAcademy\coffee_project\coffee_project\obj\Debug\net8.0\refint\coffee_project.dll
+D:\random\Documents\zahraa redAcademy\coffee_project\coffee_project\obj\Debug\net8.0\coffee_project.pdb
+D:\random\Documents\zahraa redAcademy\coffee_project\coffee_project\obj\Debug\net8.0\coffee_project.genruntimeconfig.cache
+D:\random\Documents\zahraa redAcademy\coffee_project\coffee_project\obj\Debug\net8.0\ref\coffee_project.dll
+D:\Downloads\coffee_project\coffee_project\bin\Debug\net8.0\coffee_project.exe
+D:\Downloads\coffee_project\coffee_project\bin\Debug\net8.0\coffee_project.deps.json
+D:\Downloads\coffee_project\coffee_project\bin\Debug\net8.0\coffee_project.runtimeconfig.json
+D:\Downloads\coffee_project\coffee_project\bin\Debug\net8.0\coffee_project.dll
+D:\Downloads\coffee_project\coffee_project\bin\Debug\net8.0\coffee_project.pdb
+D:\Downloads\coffee_project\coffee_project\obj\Debug\net8.0\coffee_project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\coffee_project\coffee_project\obj\Debug\net8.0\coffee_project.AssemblyInfoInputs.cache
+D:\Downloads\coffee_project\coffee_project\obj\Debug\net8.0\coffee_project.AssemblyInfo.cs
+D:\Downloads\coffee_project\coffee_project\obj\Debug\net8.0\coffee_project.csproj.CoreCompileInputs.cache
+D:\Downloads\coffee_project\coffee_project\obj\Debug\net8.0\coffee_project.dll
+D:\Downloads\coffee_project\coffee_project\obj\Debug\net8.0\refint\coffee_project.dll
+D:\Downloads\coffee_project\coffee_project\obj\Debug\net8.0\coffee_project.pdb
+D:\Downloads\coffee_project\coffee_project\obj\Debug\net8.0\coffee_project.genruntimeconfig.cache
+D:\Downloads\coffee_project\coffee_project\obj\Debug\net8.0\ref\coffee_project.dll
